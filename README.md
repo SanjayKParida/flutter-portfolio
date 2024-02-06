@@ -25,7 +25,7 @@ dependencies:
 
 ## 🔴 Site
 
-This Site is currently live on: [Visit Portfolio]("https://sanjaykparida.netlify.com")
+This Site is currently live on: [Visit Portfolio](https://sanjaykparida.netlify.com)
 
 ## 🔗 Links
 
